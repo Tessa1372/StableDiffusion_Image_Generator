@@ -10,4 +10,3 @@ To use this project, you need to set up the required dependencies, which include
 
 The project also supports both CPU and GPU execution. For GPU support, you will need an NVIDIA GPU with the appropriate drivers installed. If GPU resources are unavailable, the script will fall back to CPU for image generation. The process is straightforward and can be executed on local machines or cloud environments like Google Colab.
 
-This repository also provides guidance for troubleshooting common issues, such as errors related to missing GPU drivers or unsuccessful image generation. If you're looking to contribute, feel free to fork the repository and submit pull requests.
